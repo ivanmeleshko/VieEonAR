@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5978701086932582221
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Wall_01
+  m_Shader: {fileID: -6465566751694194690, guid: e797a8fe9f2610c4585ef665dccce4d6,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_41969687:
+        m_Texture: {fileID: 2800000, guid: 205fd893c5636184880a0739071cbe1c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_A307C873:
+        m_Texture: {fileID: 2800000, guid: ae498e152e5e6d7448e73e72449aa234, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_C464E22B:
+        m_Texture: {fileID: 2800000, guid: 49bf2ae975961c440b5f705544b0cce3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_ECC9CAC2:
+        m_Texture: {fileID: 2800000, guid: 2b3aa26712d71f54e887a3e2cd19de64, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F4EF5F4:
+        m_Texture: {fileID: 2800000, guid: 205fd893c5636184880a0739071cbe1c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_C703B72D_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 2e3039fa4f4724e4d9b47b1af6423ec9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_2C1E806E: 1
+    - Boolean_2E55A7C0: 1
+    - Boolean_8A6EADFF: 1
+    - Boolean_E6BA23B8: 1
+    - Vector1_11D9BFE4: 50
+    - Vector1_1F831E96: 1
+    - Vector1_23E9E86F: 1.6
+    - Vector1_2EEDD7BC: 1
+    - Vector1_3BBF65CB: 0
+    - Vector1_4064D9EF: 0
+    - Vector1_46CB0B13: 0.05
+    - Vector1_53C3748D: 1
+    - Vector1_57604AF6: 0.5
+    - Vector1_60027640: 0
+    - Vector1_6A542326: 0
+    - Vector1_9040AF92: 1
+    - Vector1_90FA352D: 0
+    - Vector1_951298D0: 0
+    - Vector1_9AED3B00: 0.5
+    - Vector1_A929CDC6: 0
+    - Vector1_AA398B0A: 1.5
+    - Vector1_B8A89DB2: 1
+    - Vector1_BD0E2FF0: 1
+    - Vector1_C79659EC: 1
+    - Vector1_EA8B56D5: 1
+    - Vector1_EB44A039: 50
+    - Vector1_F24939F5: 0
+    - Vector1_F702112A: 0
+    - Vector1_FA3133D4: 0
+    m_Colors:
+    - Color_AC7310F3: {r: 1, g: 1, b: 1, a: 0}
+    - Color_BF1ED8E2: {r: 0, g: 0, b: 0, a: 0}
